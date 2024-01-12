@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm user7198548</h1>
-<h3 align="center">저는 개발자 지망생..</h3>
+<h3 align="center">박소은(Soeun Park)의 포트폴리오</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
 
